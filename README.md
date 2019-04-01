@@ -1,4 +1,4 @@
-Boundary Value Problem - Poisson equation with nonconstant spatial coefficients - 2D
+# Boundary Value Problem - Poisson equation with nonconstant spatial coefficients - 2D
 
 
 This a data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers"
