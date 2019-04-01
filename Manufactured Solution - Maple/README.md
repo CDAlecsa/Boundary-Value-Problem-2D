@@ -2,6 +2,6 @@
 
 
 The analytical computation of the source term f(x,y) for the 2D case, occuring in
-the right hand side of the flow equation.
+the right hand side of the flow equation, using Maple. The code is then exported as as '.pdf' file.
 
 
