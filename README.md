@@ -10,3 +10,6 @@ manufactured solution.
 
 The benchmark contains two-dimensional flow problem with coefficients consisting of realizations of
 random space functions log-normally distributed, with exponential correlations. 
+
+
+# Copyright © 2019 Cristian Daniel Alecsa
