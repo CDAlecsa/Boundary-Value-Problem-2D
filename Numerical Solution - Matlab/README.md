@@ -4,3 +4,7 @@ We compute in Matlab the 2D finite difference scheme with the corresponding boun
 terms occurring in the right hand side of the homogeneous pressure equation. 
 Also, the results are saved in a text file containing the numerical and analytical solution, respectively. 
 Optional plots can be un-commented in the Matlab file were the numerical solution is implemented.
+
+
+
+# Copyright © 2019 Cristian Daniel Alecsa
