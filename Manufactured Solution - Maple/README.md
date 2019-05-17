@@ -6,5 +6,3 @@ the right hand side of the flow equation, using Maple. The code is then exported
 
 
 
-
-# Copyright © 2019 Cristian Daniel Alecsa
