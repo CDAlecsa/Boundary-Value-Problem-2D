@@ -5,9 +5,3 @@ The numerical coefficients are also based upon C++ codes used to compute the num
 
 
 
-
-
-
-
-
-# Copyright © 2019 Cristian Daniel Alecsa
