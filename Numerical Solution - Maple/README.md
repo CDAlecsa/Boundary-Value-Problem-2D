@@ -7,4 +7,3 @@ Also, the right hand side of the linear system is presented for a fixed number o
 
 
 
-# Copyright © 2019 Cristian Daniel Alecsa
