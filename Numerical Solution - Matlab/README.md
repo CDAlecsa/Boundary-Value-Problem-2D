@@ -7,4 +7,3 @@ Optional plots can be un-commented in the Matlab file were the numerical solutio
 
 
 
-# Copyright © 2019 Cristian Daniel Alecsa
