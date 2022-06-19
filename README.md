@@ -2,7 +2,7 @@
 
 
 This a data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers"
-by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Flavius O. Pătrulescu, Alexander Prechtel,
+by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, M. Nechita, Alexander Prechtel,
 Andreas Rupp, Nicolae Suciu.
 
 The benchmark is based upon the evaluation of the performance of finite difference numerical method by comparing the numerical solution of the equation for divergence-free flow in porous media with the analytical solutions. The exact solution is constructed by the method of
